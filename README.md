@@ -4,5 +4,4 @@ V-HACD is Volumetric Hierarchical Approximate Convex Decomposition - written by 
 Original Source
 https://code.google.com/p/v-hacd/
 
-This tree is specific for HiFi. The cmake files have beed modified to build only for 32 bit target and without OpenCL.
-This tree will be in sync with Hifi Build rules.
+This tree has some modifications made by High Fidelity. The Cmake files have been modified to build without OpenCL.
